@@ -1,0 +1,3 @@
+Processing Completed
+Correct count: 56  Incorrect count: 44
+Accuracy = 0.56
